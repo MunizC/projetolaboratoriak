@@ -1,0 +1,26 @@
+
+   
+   .grupo_quadrado{
+        width: 70px;
+        height: 70px;
+        background-color: black;
+        border: black;
+        display: flex;
+        justify-content: space-between;
+        color: brown;
+
+    }
+
+    .quadrado {
+     width: 100px;
+     height: 100px;
+
+    }
+
+
+
+
+    
+
+
+
